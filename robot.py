@@ -16,9 +16,10 @@ while(flag==0):
 		else if direction=='LEFT' :
 			y=y-step
 		else if direction=='UP' :
-			x=x+step
-		else if direction=='DOWN' :
-			x=x-step
+			x=x+stepnvlc oj;
+			k v  
+		else if di lsv bd  kievfb abvipnwfv  ib rection=='DOWN' :
+			x=x-stepfv d
 		else :
 			print("Please Enter Correct Input ")
 
