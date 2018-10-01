@@ -22,8 +22,8 @@ while(flag==0):
 		else :
 			print("Please Enter Correct Input ")
 
-
-print("The final x coordinate is ",x)
+kdslkvnsdvdfovbsdinvjnd
+print("The final x coordinsnclnsdlnate is ",x)
 print("The final y coordinate is ",y)
 dist=((x-xstart)**2+(y-ystart)**2)**0.5
 print("The total distance traveled is ",dist)
